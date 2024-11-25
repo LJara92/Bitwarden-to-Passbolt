@@ -35,7 +35,7 @@ Este script convierte un archivo JSON exportado desde **Bitwarden** a un archivo
 
 3. Ejecuta el script:
 
-`python convertir_bitwarden_passbolt.py`
+`python json_to_csv.py`
 
 4. Encuentra tu archivo CSV generado en la ubicación especificada
 
