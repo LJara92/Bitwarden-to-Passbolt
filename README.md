@@ -21,8 +21,8 @@ Este script convierte un archivo JSON exportado desde **Bitwarden** a un archivo
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/nombre-del-repo.git
-   cd nombre-del-repo
+   git clone https://github.com/tuusuario/Bitwarden-to-Passbolt.git
+   cd Bitwarden-to-Passbolt
    
 2. Asegúrate de tener Python instalado en tu sistema.
    
