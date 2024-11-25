@@ -60,7 +60,7 @@ El script incluye manejo básico de errores:
 
 *Autor*: Lautaro Jara
 
-*Creado*: 15/09/2023
+*Creado*: 25/11/2024
 
 
    
